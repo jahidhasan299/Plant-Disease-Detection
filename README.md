@@ -19,5 +19,8 @@ In this project we will create a Convolutional Neural Network which will be able
 # WHY IN THIS PROJECTS
 Human socity need to increase food production by an estimated 70% by 2050 to feed an expected population size, that is predicted to be over 9 billion people. Currently, infections diseases reduce the potential yiled by an average of 40% with many farmers in the developing world experience yiled losses as high as 100%. The widespread distribution of smartphone among crop crowers around the world with an expected 5 billion smartphones by 2020 offers the potential of turning the smartphone into a valuable tool for diverse communites growing food. One potential application is the development of mobile disease diagnostic through machine learning and big data.
 
+# Results
+![Screen Shot 2022-05-30 at 5 48 23 PM](https://user-images.githubusercontent.com/49092540/170967171-e88b4486-1de0-41ea-b59e-b817b8ed7e62.png)
+
 # Conclusion
 We started with loading the dataset into google colab using google drive and visualizing the images. Normalizing is an important step when working with any type of dataset. After that we created a CNN Model which is further used for predicting the plant diseases using the image supplied to model. This model is highly beneficial as it can be used by different agricultural firms and farmers to increase their yield and stop wastage of crops due to disease.
